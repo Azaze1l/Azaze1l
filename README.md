@@ -3,7 +3,7 @@
 21 y.o.
 
 Hardworking developer from Saint-Petersburg, Russia
-I have a passion for the <b>Python</b> programming language and its various <b>libraries/frameworks/engines</b>
+I have a passion for the <b>Python</b> programming language and its various <b>libraries/frameworks</b>
 
 <img align="right" alt="GIF" src="./Joker.jpg" width="500" height="320" />
 
