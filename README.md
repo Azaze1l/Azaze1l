@@ -5,7 +5,7 @@
 Hardworking developer from Saint-Petersburg, Russia
 I have a passion for the <b>Python</b> programming language and its various <b>libraries/frameworks/engines</b>
 
-<img align="right" alt="GIF" src="./Joker.jpg" width="750" height="739" />
+<img align="right" alt="GIF" src="./Joker.jpg" width="675" height="665" />
 
 Talking about personal stuffs:
 <ul>
