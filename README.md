@@ -37,8 +37,8 @@ Talking about personal stuffs:
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Azaze1l&repo=mailing_service&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Azaze1l/overstockbot">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Azaze1l&repo=overstockbot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Azaze1l/yet_another_disk">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Azaze1l&repo=yet_another_disk&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <code align = "right"> ![](https://visitor-badge.glitch.me/badge?page_id=lnp.lnp) </code>
