@@ -1,25 +1,3 @@
-### Hey! I'm Vitaliy 👋
-
-21 y.o.
-
-Hardworking developer from Saint-Petersburg, Russia
-I have a passion for the <b>Python</b> programming language and its various <b>libraries/frameworks</b>
-
-<img align="right" alt="GIF" src="./Joker.jpg" width="500" height="320" />
-
-Talking about personal stuffs:
-<ul>
-    <li> I’m currently studying at ITMO University </li>
-    <li> Really want to become a cool developer </li>
-    <li> Ask me about Python, I am happy to help you </li>
-    <li> Fun fact: I want to change the world </li>
-</ul>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/eewqweqqq" target="blank"><img align="center" src="./telegramImage.png" alt="anomatver" height="30" width="40" /></a>
-</p>
-
 **Languages and Tools:** 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
